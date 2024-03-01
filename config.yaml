@@ -1,0 +1,16 @@
+path: /Users/factu/Downloads/ProyectosT/Seguridad/modelo/data
+
+train: images/train
+
+val: images/train
+
+# Classes
+names :
+  0: knife
+  1: gun
+  2: rifle
+  3: Semi-automatic rifles
+  4: Shotguns
+  5: Revolvers
+  6: Pistols
+  7: Weapons
